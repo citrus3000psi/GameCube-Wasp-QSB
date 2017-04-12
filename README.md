@@ -22,7 +22,7 @@ GC Wasp DVD (Optional)        OSHPark Link: https://oshpark.com/shared_projects/
   
   BOM:
    
-   Connector A120671CT-ND
+    Connector A120671CT-ND
     
     (Optional) 3.3 Voltage Regulator 296-15819-1-ND
     
@@ -36,21 +36,21 @@ GC Wasp MicroSD (Optional)    OSHPark Link: https://oshpark.com/shared_projects/
  
  BOM:
    
-   Connector A100283CT-ND 
+    Connector A100283CT-ND 
    
-   MicroSD Slot WM6825CT-ND
+    MicroSD Slot WM6825CT-ND
     
-   R1,R2,R3,R4,R5,R6     22.1 Ohm 0603 Resisitor   311-22.1HRCT-ND
+    R1,R2,R3,R4,R5,R6     22.1 Ohm 0603 Resisitor   311-22.1HRCT-ND
    
-   R7,R8,R9              68.1 KOhm 0603 Resistor   311-68.1KHRCT-ND
+    R7,R8,R9              68.1 KOhm 0603 Resistor   311-68.1KHRCT-ND
     
-   R10                   15K 0603 Resistor         311-15KGRCT-ND
+    R10                   15K 0603 Resistor         311-15KGRCT-ND
    
-   R11                   470K 0603 Resistor        311-470KGRCT-ND
+    R11                   470K 0603 Resistor        311-470KGRCT-ND
    
-   C1                    1u 16v 0603 Cap           490-1536-1-ND     
+    C1                    1u 16v 0603 Cap           490-1536-1-ND     
    
-   C2                    10u 16v 0603 Cap          490-7201-1-ND
+    C2                    10u 16v 0603 Cap          490-7201-1-ND
     
  **Silk Screen is missing some info will update soon**
  

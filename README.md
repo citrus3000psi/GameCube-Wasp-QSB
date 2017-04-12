@@ -10,35 +10,35 @@ There are three QSBs:
 
 **GC Wasp Host**
 
-  OSHPark Link
-  
-    https://oshpark.com/shared_projects/3oHakCFx
-  
-  BOM:
-    
-    Connector A120671CT-ND
-  
-  Installation:
-    
-    You must remove the DVD filters, then solder into place.
+          OSHPark Link
+
+            https://oshpark.com/shared_projects/3oHakCFx
+
+          BOM:
+
+            Connector A120671CT-ND
+
+          Installation:
+
+            You must remove the DVD filters, then solder into place.
 
 **GC Wasp DVD (Optional)**
   
-  OSHPark Link
-      
-     https://oshpark.com/shared_projects/NIwAEeNW
-  
-  BOM:
-   
-    Connector A120671CT-ND
-    
-    (Optional) 3.3 Voltage Regulator 296-15819-1-ND
-    
-    **You can omit this VREG if you wire up 3.3V to pad on the HOST QSB.  The VREG just makes a cleaner install**
-  
-  Installation:
-    
-    Remove some excess solder on the DVD drive connector. Make sure QSB sits flush and then solder.
+          OSHPark Link
+
+             https://oshpark.com/shared_projects/NIwAEeNW
+
+          BOM:
+
+            Connector A120671CT-ND
+
+            (Optional) 3.3 Voltage Regulator 296-15819-1-ND
+
+            **You can omit this VREG if you wire up 3.3V to pad on the HOST QSB.  The VREG just makes a cleaner install**
+
+          Installation:
+
+            Remove some excess solder on the DVD drive connector. Make sure QSB sits flush and then solder.
     
 **GC Wasp MicroSD (Optional)**
 

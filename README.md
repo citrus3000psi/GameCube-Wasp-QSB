@@ -8,7 +8,7 @@ Somewhat easy to install Gamecube QSBs for WiiKey Fusion and Wasp Fusion.  DVD Q
 
 There are three QSBs:
 
-GC Wasp Host
+**GC Wasp Host**
 
   OSHPark Link
   
@@ -22,7 +22,8 @@ GC Wasp Host
     
     You must remove the DVD filters, then solder into place.
 
-GC Wasp DVD (Optional)
+**GC Wasp DVD (Optional)**
+  
   OSHPark Link
       
      https://oshpark.com/shared_projects/NIwAEeNW
@@ -39,11 +40,13 @@ GC Wasp DVD (Optional)
     
     Remove some excess solder on the DVD drive connector. Make sure QSB sits flush and then solder.
     
-GC Wasp MicroSD (Optional)
+**GC Wasp MicroSD (Optional)**
 
   OSHPark Link: 
   
     https://oshpark.com/shared_projects/IrZlIu1M
+    
+     **Silk Screen is missing some info will update soon**
  
  BOM:
    
@@ -62,8 +65,6 @@ GC Wasp MicroSD (Optional)
     C1                    1u 16v 0603 Cap           490-1536-1-ND     
    
     C2                    10u 16v 0603 Cap          490-7201-1-ND
-    
- **Silk Screen is missing some info will update soon**
  
   Installation:
    
